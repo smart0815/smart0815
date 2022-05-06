@@ -103,6 +103,7 @@ I'm a second year CSE undergraduate pursuing B.Tech and a passionate programmer 
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=smart0815&theme=dark&hide_border=false" width = 500>
 <img src = "https://github-readme-stats.vercel.app/api?username=smart0815&show_icons=true&theme=dark" width = 500>
 </p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smart0815&theme=dark)](https://github.com/smart0815)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/smart0815)
