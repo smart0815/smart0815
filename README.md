@@ -1,6 +1,6 @@
 <h1>Hey there, I'm <a  href="https://github.com/tanyagupta0201/">Jackson Jong</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-[![Gmail Badge](https://img.shields.io/badge/jonnndroid Developmentel0617@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:jonnel0617@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/jonnel0617@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:jonnel0617@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=tanyagupta0201&style=plastic" />
 
 I'm a second year CSE undergraduate pursuing B.Tech and a passionate programmer who loves to code. I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills. <br>
