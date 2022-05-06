@@ -98,15 +98,18 @@ I'm a second year CSE undergraduate pursuing B.Tech and a passionate programmer 
 <br>
 <br>
 
+## My Statistics
+
+<br/>
+<br>
+
 ![github graph](https://activity-graph.herokuapp.com/graph?username=smart0815&theme=react-dark)
-<p align="left">
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=smart0815&theme=dark&hide_border=false" width = 500>
-<img src = "https://github-readme-stats.vercel.app/api?username=smart0815&show_icons=true&theme=dark" width = 500>
-</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smart0815&theme=dark)](https://github.com/smart0815)
+<br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/smart0815)
+| ![Jackson's github stats](https://github-readme-stats.vercel.app/api?username=smart0815&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=smart0815&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smart0815&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=smart0815&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 ---
 
