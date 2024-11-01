@@ -11,8 +11,7 @@ Talking about Personal Stuffs:
 
 - 🌱 I'm a full-stack developer who has much experience in IT industry.
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
-- ⚡ Fun fact: There are 10 types of people in this world those who understand binary and those who don't :)
-- Show ❤ by giving⭐to my Repositories, at least your star could make someone's day 😄.
+- ⚡ Fun fact: There are 10 types of people in this world those who understand binary and those who don't :) Show ❤ by giving⭐to my Repositories, at least your star could make someone's day 😄.
 - Enterprise application development and support
 - <b>Front-end</b> : Reactjs | Nextjs | Vuejs | Nuxtjs | AngularJs | TypeScript | TailWind CSS | Material | Styled Components | Bootstrap | Antd 
 - <b>Back-end</b> : Python | Django | Flask | FastAPI | Nodejs | ROR | ASP.NET | Laravel | CodeIgniter
